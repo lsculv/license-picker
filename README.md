@@ -1,4 +1,4 @@
-# `license-picker` is simple command-line tool to generate a license file
+# `license-picker` is a simple command-line tool to generate a license file
 
 Supports all the licenses listed in the `licenses/` directory. Each supported
 license is included in the compiled binary itself, and defined in source-code,
