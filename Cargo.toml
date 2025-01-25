@@ -1,0 +1,18 @@
+[package]
+name = "license-picker"
+version = "1.0.0"
+edition = "2021"
+homepage = "https://github.com/lsculv/license-picker"
+repository = "https://github.com/lsculv/license-picker"
+license = "MIT OR Apache-2.0"
+readme = "README.md"
+categories = ["command-line-utilities"]
+keywords = ["license"]
+description = "A simple command-line tool to generate a license file"
+
+[dependencies]
+pico-args = "0.5.0"
+
+[profile.release]
+strip = true
+lto = true
