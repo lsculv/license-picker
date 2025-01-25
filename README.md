@@ -14,7 +14,7 @@ ARGUMENTS:
   LICENSE...
     License(s) to generate in the current directory. The default file name
     for a single license choice is `LICENSE`. Multiple licenses can be
-    choosen, and each will be named to indicate what license it is. For example
+    chosen, and each will be named to indicate what license it is. For example,
     choosing the MIT and Apache 2.0 licenses will create the files `LICENSE-MIT`
     and `LICENSE-APACHE`.
 
