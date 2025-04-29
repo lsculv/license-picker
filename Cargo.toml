@@ -1,6 +1,6 @@
 [package]
 name = "license-picker"
-version = "1.0.1"
+version = "1.0.2"
 edition = "2021"
 homepage = "https://github.com/lsculv/license-picker"
 repository = "https://github.com/lsculv/license-picker"
